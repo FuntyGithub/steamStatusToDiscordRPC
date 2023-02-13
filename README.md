@@ -1,7 +1,7 @@
 # Steam status to Discord RPC
 This script get the Steam-status of a user and display it as discord rich presence.
 
-![](https://cdn.discordapp.com/attachments/1018129353328037948/1074764993494519898/steamtodiscord.png)
+![](https://cdn.discordapp.com/attachments/1018129353328037948/1074765797790056458/steamtodiscord.png)
 
 ## Installation
 
