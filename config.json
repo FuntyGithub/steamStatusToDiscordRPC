@@ -1,4 +1,11 @@
 {
-    "clientID":"1074322401657114736",
-    "steamID":"76561198023455525"
+    "_description": [
+        "refreshTime - is the time in milliseconds between each time the script crawls the data from Steam.",
+        "clientID - is the client ID of the discord application, you can leave it as it is. (or get your own at the discord developer portal)",
+        "steamID - is the steam ID of the user you want to track, you can get it from the steam profile URL. NO VANITY URLS!"
+    ],
+    
+    "refreshTime": 180000,
+    "clientID": "1074322401657114736",
+    "steamID": "76561198836515746"
 }
